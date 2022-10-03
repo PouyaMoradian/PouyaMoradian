@@ -14,10 +14,11 @@
 
 <p align="center"> 
  <strong>
-  Professional skills
+  Professional skills:
   </strong>
 </p>
 
+</br>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
@@ -29,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </p>
 
+</br>
 - 👀 I’m interested in Software Engineering and Software Architecture
 - 💬 Ask me about: .NET, Clean Architecture, Microservices, CQRS, Event Sourcing, Restful APIs
 - 👯 I’m looking to collaborate on: OSS projects based on .NET
