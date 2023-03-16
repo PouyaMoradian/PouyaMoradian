@@ -31,9 +31,9 @@
 </p>
 
 </br>
-- 👀 I’m interested in Software Engineering and Software Architecture
+- I’m interested in Software Engineering and Software Architecture
 </br>
-- 💬 Ask me about: .NET, Clean Architecture, Microservices, CQRS, Event Sourcing, Restful APIs
+- Ask me about: .NET, Clean Architecture, Microservices, CQRS, Event Sourcing, Restful APIs
 </br>
-- 👯 I’m looking to collaborate on: OSS projects based on .NET
+- I’m looking to collaborate on: OSS projects based on .NET
 </br>
